@@ -203,3 +203,7 @@ keys:
     id: '50'
     port: 29953
     secret: WN3qQ9Zt6724zU6EQkxLBV
+  - cipher: chacha20-ietf-poly1305
+    id: '51'
+    port: 54585
+    secret: NNYUdUObME8zTiINnmEnar
