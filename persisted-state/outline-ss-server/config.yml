@@ -28,10 +28,6 @@ keys:
     port: 29953
     secret: W03cZljfWXP4H24iTSDfAc
   - cipher: chacha20-ietf-poly1305
-    id: '7'
-    port: 29953
-    secret: VaE0wyP7zf5TAQ4gr92Vfw
-  - cipher: chacha20-ietf-poly1305
     id: '8'
     port: 29953
     secret: VV9hLVoEULQnoYlAHsYMZs
@@ -76,10 +72,6 @@ keys:
     port: 29953
     secret: Lg9yfqVhCgbSezWYSF0X8u
   - cipher: chacha20-ietf-poly1305
-    id: '19'
-    port: 29953
-    secret: YVhztvyf82um3wDBAAhUmK
-  - cipher: chacha20-ietf-poly1305
     id: '20'
     port: 29953
     secret: jWoyLPAJe3i7678aIJGigr
@@ -95,10 +87,6 @@ keys:
     id: '23'
     port: 29953
     secret: 4e2rwDHv66SlzhRQwkLrYi
-  - cipher: chacha20-ietf-poly1305
-    id: '24'
-    port: 29953
-    secret: l229aIXHqsqaRgn7iIBj4B
   - cipher: chacha20-ietf-poly1305
     id: '25'
     port: 29953
@@ -148,10 +136,6 @@ keys:
     port: 29953
     secret: 0QPKxqmdzLcB7TCGFNcJrQ
   - cipher: chacha20-ietf-poly1305
-    id: '37'
-    port: 29953
-    secret: lV0Jg7eMYdygTPSWbKZfj8
-  - cipher: chacha20-ietf-poly1305
     id: '38'
     port: 29953
     secret: pbeVI1W2yKNyL92ELKpS3c
@@ -160,25 +144,9 @@ keys:
     port: 29953
     secret: q4b9w9Fln5QIXrYyFreeOx
   - cipher: chacha20-ietf-poly1305
-    id: '40'
-    port: 29953
-    secret: 625tjmt7zBsrvH2aYVKMvz
-  - cipher: chacha20-ietf-poly1305
-    id: '41'
-    port: 29953
-    secret: X9Ygy8dDgf2yoZ4NQxhMmh
-  - cipher: chacha20-ietf-poly1305
-    id: '42'
-    port: 29953
-    secret: PFgWnD6tplmkn6edrcgF74
-  - cipher: chacha20-ietf-poly1305
     id: '43'
     port: 29953
     secret: EsYS1EIlH0eLBfZmxwM4c6
-  - cipher: chacha20-ietf-poly1305
-    id: '44'
-    port: 29953
-    secret: lEUviNATr9FfKg7MXWlGA2
   - cipher: chacha20-ietf-poly1305
     id: '45'
     port: 29953
